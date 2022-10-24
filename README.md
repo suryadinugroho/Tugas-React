@@ -8,7 +8,7 @@ Di direktori proyek, Anda dapat menjalankan:
 
 ### `npm start`
 
-Menjalankan aplikasi dalam mode pengembangan.\
+kode untuk menjalankan react./
 Buka [http://localhost:3000](http://localhost:3000) untuk melihatnya di browser Anda.
 
 Halaman akan dimuat ulang saat Anda membuat perubahan.\
