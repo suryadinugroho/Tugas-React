@@ -8,7 +8,7 @@ Di direktori proyek, Anda dapat menjalankan:
 
 ### `npm start`
 
-Menjalankan aplikasi dalam mode pengembangan.\
+kode untuk menjalankan hasil di dalam react./
 Buka [http://localhost:3000](http://localhost:3000) untuk melihatnya di browser Anda.
 
 Halaman akan dimuat ulang saat Anda membuat perubahan.\
@@ -39,32 +39,4 @@ Sebaliknya, itu akan menyalin semua file konfigurasi dan dependensi transitif (w
 
 Anda tidak perlu menggunakan `eject`. Kumpulan fitur yang dikuratori cocok untuk penerapan kecil dan menengah, dan Anda tidak perlu merasa berkewajiban untuk menggunakan fitur ini. Namun kami memahami bahwa alat ini tidak akan berguna jika Anda tidak dapat menyesuaikannya saat Anda siap untuk itu.
 
-## Belajarlah lagi
-
-Anda dapat mempelajari lebih lanjut di [Dokumentasi Membuat Aplikasi React](https://facebook.github.io/create-react-app/docs/getting-started).
-
-Untuk mempelajari React, lihat [dokumentasi React](https://reactjs.org/).
-
-### Pemisahan Kode
-
-Bagian ini telah dipindahkan ke sini: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code- pemisahan)
-
-### Menganalisis Ukuran Bundel
-
-Bagian ini telah dipindahkan ke sini: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/ dokumen/menganalisis-ukuran-bundel)
-
-### Membuat Aplikasi Web Progresif
-
-Bagian ini telah dipindahkan ke sini: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react- app/docs/making-a-progressive-web-app)
-
-### Konfigurasi Lanjut
-
-Bagian ini telah dipindahkan ke sini: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced- konfigurasi)
-
-### Penyebaran
-
-Bagian ini telah dipindahkan ke sini: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` gagal untuk mengecilkan
-
-Bagian ini telah dipindahkan ke sini: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/ create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)npm-run-build-fails-to-minify)
+baru
