@@ -2,7 +2,7 @@
 
 Proyek ini di-bootstrap dengan [Buat Aplikasi React](https://github.com/facebook/create-react-app).
 
-## Skrip yang Tersedia
+## Skrip yang Tersedia.
 
 Di direktori proyek, Anda dapat menjalankan:
 
@@ -29,7 +29,7 @@ Aplikasi Anda siap di-deploy!
 
 Lihat bagian tentang [penerapan](https://facebook.github.io/create-react-app/docs/deployment) untuk informasi selengkapnya.
 
-### `npm run eject`
+### `npm run eject`.
 
 **Catatan: ini adalah operasi satu arah. Setelah Anda `eject`, Anda tidak dapat kembali!**
 
