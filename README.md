@@ -37,5 +37,4 @@ Jika Anda tidak puas dengan alat build dan pilihan konfigurasi, Anda dapat `meng
 
 Sebaliknya, itu akan menyalin semua file konfigurasi dan dependensi transitif (webpack, Babel, ESLint, dll) langsung ke proyek Anda sehingga Anda memiliki kontrol penuh atas mereka. Semua perintah kecuali `eject` akan tetap berfungsi, tetapi akan menunjuk ke skrip yang disalin sehingga Anda dapat mengubahnya. Pada titik ini Anda sendirian.
 
-Anda tidak perlu menggunakan `eject`. Kumpulan fitur yang dikuratori cocok untuk penerapan kecil dan menengah, dan Anda tidak perlu merasa berkewajiban untuk menggunakan fitur ini. Namun kami memahami bahwa alat ini tidak akan berguna jika Anda tidak dapat menyesuaikannya saat Anda siap untuk itu.
-
+.
