@@ -5,7 +5,7 @@ const MainPage = () => {
   return (
    <>
    <section id='welcome'>
-    <img width='400px' height='300px' src='https://tse4.mm.bing.net/th?id=OIP.POBmNYasM6Usw1iXcgfFLQHaEe&pid=Api&P=0'/>
+    <img width='400px' height='300px' src='https://sarkepo.com/wp-content/uploads/2022/06/pp-ultraman-wa-lucu-3.jpg'/>
     <h2>Surya Adi Nugroho</h2>
     <p>Technology enthusiast</p>
    </section>
@@ -105,3 +105,5 @@ const MainPage = () => {
 }
 
 export default MainPage
+
+
